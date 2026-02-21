@@ -51,4 +51,5 @@ Este proyecto corresponde al primer trabajo aplicado del curso y forma parte de 
 👨‍🎓 Autor
 
 Omar Anthony Poma Vega
+
 📅 2026
