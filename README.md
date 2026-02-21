@@ -52,4 +52,4 @@ Este proyecto corresponde al primer trabajo aplicado del curso y forma parte de 
 
 Omar Anthony Poma Vega
 
-📅 2026
+📅 21 de febrero del 2026
