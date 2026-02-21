@@ -44,7 +44,7 @@ Este proyecto corresponde al primer trabajo aplicado del curso y forma parte de 
 
 🔗 Repositorio GitHub: https://github.com/OmarPV01/proyecto-modulo1-streamlit.git
 
-☁️ Aplicación en Streamlit Cloud: (colocar enlace aquí)
+☁️ Aplicación en Streamlit Cloud: https://proyecto-modulo1-app-hvtfwcpvay2kpkfrebtcsc.streamlit.app
 
 ---
 
